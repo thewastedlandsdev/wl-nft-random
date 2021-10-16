@@ -1,0 +1,149 @@
+[
+  {
+    "package": 1,
+    "part_rarity": 1,
+    "min_part": 6,
+    "rate": 40,
+    "volume": 2400
+  },
+  {
+    "package": 1,
+    "part_rarity": 2,
+    "min_part": 1,
+    "rate": 30,
+    "volume": 1800
+  },
+  {
+    "package": 1,
+    "part_rarity": 3,
+    "min_part": 1,
+    "rate": 25,
+    "volume": 1500
+  },
+  {
+    "package": 1,
+    "part_rarity": 4,
+    "min_part": 1,
+    "rate": 5,
+    "volume": 300
+  },
+  {
+    "package": 2,
+    "part_rarity": 2,
+    "min_part": 1,
+    "rate": 39,
+    "volume": 2340
+  },
+  {
+    "package": 2,
+    "part_rarity": 2,
+    "min_part": 3,
+    "rate": 30,
+    "volume": 1800
+  },
+  {
+    "package": 2,
+    "part_rarity": 3,
+    "min_part": 1,
+    "rate": 25,
+    "volume": 1500
+  },
+  {
+    "package": 2,
+    "part_rarity": 4,
+    "min_part": 1,
+    "rate": 5,
+    "volume": 300
+  },
+  {
+    "package": 2,
+    "part_rarity": 4,
+    "min_part": 2,
+    "rate": 1,
+    "volume": 60
+  },
+  {
+    "package": 3,
+    "part_rarity": 2,
+    "min_part": 3,
+    "rate": 35,
+    "volume": 700
+  },
+  {
+    "package": 3,
+    "part_rarity": 3,
+    "min_part": 1,
+    "rate": 30,
+    "volume": 600
+  },
+  {
+    "package": 3,
+    "part_rarity": 3,
+    "min_part": 3,
+    "rate": 25,
+    "volume": 500
+  },
+  {
+    "package": 3,
+    "part_rarity": 4,
+    "min_part": 1,
+    "rate": 8.5,
+    "volume": 170
+  },
+  {
+    "package": 3,
+    "part_rarity": 4,
+    "min_part": 2,
+    "rate": 1,
+    "volume": 20
+  },
+  {
+    "package": 3,
+    "part_rarity": 4,
+    "min_part": 3,
+    "rate": 0.5,
+    "volume": 10
+  },
+  {
+    "package": 4,
+    "part_rarity": 3,
+    "min_part": 1,
+    "rate": 45.9,
+    "volume": 459
+  },
+  {
+    "package": 4,
+    "part_rarity": 3,
+    "min_part": 3,
+    "rate": 36,
+    "volume": 360
+  },
+  {
+    "package": 4,
+    "part_rarity": 4,
+    "min_part": 1,
+    "rate": 15,
+    "volume": 150
+  },
+  {
+    "package": 4,
+    "part_rarity": 4,
+    "min_part": 2,
+    "rate": 2,
+    "volume": 20
+  },
+  {
+    "package": 4,
+    "part_rarity": 4,
+    "min_part": 3,
+    "rate": 1,
+    "volume": 10
+  },
+  {
+    "package": 4,
+    "part_rarity": 4,
+    "min_part": 4,
+    "rate": 0.1,
+    "volume": 1
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "wl-nft-random",
+  "version": "1.0.0",
+  "description": "Random Wasted Lands Hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Long Vu",
+  "license": "ISC"
+}
